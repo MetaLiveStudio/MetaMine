@@ -4,7 +4,7 @@
 2. Send your rewards (Token or NFTs) to the following address(ETH or Polygon preferable):
 Please contact us if your rewards are on other chains or they are physical products.
 
-3. Check what kinds of promotion materials that you need to provide by checking the #**Sponsors_Materials_Example**# folder above. We prepared some examples for you and please make sure you are using the same size of those examples. We advise you to open our example with your Photoshop(or other image editor), and then delete our example and then put your own materials in.
+3. Check what kinds of promotion materials that you need to provide by checking the #**Sponsors_Materials_Example**# folder above. We prepared some examples for you and please make sure you are using the same size of those examples. We advise you to open our example with your Photoshop(or other image editor) and delete our example, then put your own materials in.
 ![image](https://user-images.githubusercontent.com/62155289/187910321-9c90d56f-ab68-49df-8ce3-6810fe6ab22e.png)
 
 * Attention: Most of the examples are very straightforward, just be careful with your rewards related pictures, **please name them following this principle Name_(amount)** we will use the pictures and the amount information to create raffle ticket for you (if you don't have a newly published Decentraland wearable)
