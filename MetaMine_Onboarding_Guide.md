@@ -12,3 +12,5 @@ Please contact us if your rewards are on other chains or they are physical produ
 ![image](https://user-images.githubusercontent.com/62155289/187909510-4d4ce90a-e7ee-499f-ada1-1e7898e6f846.png)
 
 4. Create a independent folder on the same level with #**Sponsors_Materials_Example**# on our Github with all of your materials.
+![image](https://user-images.githubusercontent.com/62155289/187910164-d1da30bd-4011-4242-a8e4-9e4423a89e55.png)
+
