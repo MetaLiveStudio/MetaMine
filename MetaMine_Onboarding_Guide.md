@@ -1,7 +1,7 @@
 # MetaMine Onboarding Guide
-1. After you’ve chosen the tier, you can send us the payment in USDC/USDT to the following address. Address: 0x05060Fa97e54a812d1E15cEc6c34e79f74eBD0b3
+1. After you’ve chosen the tier, you can send us the payment in USDC/USDT to the following address(ETH or Polygon). Address: 0x05060Fa97e54a812d1E15cEc6c34e79f74eBD0b3
 
-2. Send your rewards (Token or NFTs) to the following address(ETH or Polygon preferable): 0x1274e61cd2Fd3368B3886Dc5C79f1FA98832Ef31
+2. Send your rewards (Token or NFTs) to the following address(ETH or Polygon): 0x1274e61cd2Fd3368B3886Dc5C79f1FA98832Ef31
 
 * Please contact us if your rewards are on other chains or they are physical products.
 
